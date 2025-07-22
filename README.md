@@ -1,29 +1,28 @@
 Hi :)
 
-I am a student at Thomas Jefferson High School for Science and Technology
+I'm a student at Thomas Jefferson High School for Science and Technology with a passion for computer science, math, and building cool things.
 
-In my free time, I like to work on personal CS projects, go swimming, listen to music, play the piano, and so much more
+In my free time, I enjoy working on personal CS projects, swimming, listening to music, playing the piano, participating in CTF competitions, and much more
 
-Click [here](https://hsna674.github.io/) if you want to check out my portfolio!
+Check out my portfolio [here](https://hsna674.github.io/)!
 
 ### Coding Languages:
 * Python
 * Java
-* CSS
-* HTML
-* A bit of javascript
+* HTML & CSS
+* C & C++
+* Javascript (A little bit)
 
 ### My Software and Hardware
-* Editor: VS Code, NeoVim, and Jetbrains IDEs
-* OS: Mac, Fedora, and Windows
+* Editor: VS Code, NeoVim, JetBrains IDEs
+* Operating Systems: macOS (M3 Pro), Fedora Linux, Windows
 * Shell: ZSH
-* CPU: M3 PRO (Macbook Pro)
-* Ram: 18 GB
-* GPU: Integrated Mac Graphics
+* Specs: 18GB RAM, M3 Pro CPU, integrated GPU
 
 ### I am currently working on:
-* Improving my CS skills
-* Creating cool projects
+* Improving my CS and Cybersecurity skills
+* Building new personal projects and tools
+
 
 ### GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hsna674&theme=dark&hide_border=false)<br/>
