@@ -81,15 +81,12 @@ char* learning_goals[] = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=spyduck007&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF" alt="Streak" />
 
 <br/>
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spyduck007&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&bg_color=0D1117" alt="Top Langs" />
 
 </div>
 
 <br />
 
-### 📉 Network Activity
+### Network Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=spyduck007&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" width="100%" />
 
 <p align="center">
