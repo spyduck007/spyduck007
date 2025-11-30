@@ -91,7 +91,7 @@ char* learning_goals[] = {
 
 <p align="center">
   <br />
-  <a href="https://spyduck007.github.io/">
+  <a href="https://spyduck007.github.io/ctf">
     <img src="https://img.shields.io/badge/ACCESS_PORTFOLIO-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
