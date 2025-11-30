@@ -12,11 +12,7 @@
 
 <br />
 
-<table style="border: none; border-collapse: collapse; width: 100%;">
-<tr style="border: none;">
-<td style="width: 60%; vertical-align: top; border: none;">
-
-### 🕵️‍♂️ Agent Profile: Ansh
+### Agent Profile: Ansh
 
 ```c
 // user_profile.c
@@ -43,7 +39,9 @@ char* learning_goals[] = {
 };
 ```
 
-### 🛰️ Operations & Tools
+<br />
+
+### Operations & Tools
 
 **CTF Categories:**
 <br/>
@@ -66,37 +64,36 @@ char* learning_goals[] = {
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Ghidra-EE3423?style=for-the-badge&logo=ghidra&logoColor=white" />
 
-</td>
-<td style="width: 40%; vertical-align: top; border: none; padding-left: 10px;">
+<br />
+<br />
 
-### 📊 Mission Stats
+### Mission Stats
 
 <div align="center">
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=spyduck007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=spyduck007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Trophies" />
 </a>
-</div>
 
 <br/>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=spyduck007&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF" width="100%" />
-</div>
-
 <br/>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spyduck007&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&bg_color=0D1117" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=spyduck007&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF" alt="Streak" />
+
+<br/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spyduck007&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&bg_color=0D1117" alt="Top Langs" />
+
 </div>
 
-</td>
-</tr>
-</table>
+<br />
 
-<h3 align="left">Network Activity</h3>
+### 📉 Network Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=spyduck007&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" width="100%" />
 
 <p align="center">
+  <br />
   <a href="https://spyduck007.github.io/">
     <img src="https://img.shields.io/badge/ACCESS_PORTFOLIO-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
