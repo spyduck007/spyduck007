@@ -72,7 +72,7 @@ char* learning_goals[] = {
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=spyduck007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Trophies" />
+  <img src="https://github-trophies.devomb.com/?username=spyduck007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Trophies" />
 </a>
 
 <br/>
